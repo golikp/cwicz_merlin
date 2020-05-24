@@ -1,0 +1,4 @@
+DISEASE             ALLELE_FREQ     PENETRANCES         LABEL
+Disease	            0.05            *                   Codominant
+   SEX = FEMALE                     0.00,0.50,1.00
+   OTHERWISE                        0.00,1.00,1.00 
